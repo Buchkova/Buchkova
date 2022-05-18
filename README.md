@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning SoftUni (C# Advance/OOP)
 - 📫 How to reach me: inesbuchkova@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=synthwave&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buchkova&theme=synthwave&show_icons=true)
 

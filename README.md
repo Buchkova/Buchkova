@@ -8,6 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ines-buchkova-096a7b243/) 
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Buchkova/)
 
+##
+
 - 👋 Hi, I’m Ines Buchkova
 - 👀 I’m interested in becoming a Full-Stack Developer
 - 🌱 I’m currently studying at SoftUni (C# Advance/OOP)

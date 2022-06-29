@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ines Buchkova
+- 👋 Hi, I’m Ines Buchkova
 - 👀 I’m interested in becoming a Full-Stack Developer
 - 🌱 I’m currently studying at SoftUni (C# Advance/OOP)
 - 📫 How to reach me: inesbuchkova@gmail.com

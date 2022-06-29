@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Buchkova)
 [![Years Badge](https://badges.pufler.dev/years/Buchkova)](https://badges.pufler.dev)
 
-[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/ines.aleksandrova/)
+[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100077433111172/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com//) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//) 
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/)

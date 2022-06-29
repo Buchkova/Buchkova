@@ -4,7 +4,7 @@
 [![Years Badge](https://badges.pufler.dev/years/Buchkova)](https://badges.pufler.dev)
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100077433111172/)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com//) 
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ines.buchkova/) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//) 
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/)
 
@@ -14,4 +14,4 @@
 - 🎮 Games, 🎨 drawing and 📚 reading are my hobbies
 - 📫 How to reach me: inesbuchkova@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buchkova&theme=synthwave&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buchkova&layout=compact)](https://github.com/Buchkova/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buchkova&theme=synthwave&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buchkova&layout=compact)](https://github.com/Buchkova/github-readme-stats)

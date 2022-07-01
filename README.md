@@ -1,7 +1,7 @@
 ## Hi there, I'm Ines Buchkova <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Buchkova)
-[![Years Badge](https://badges.pufler.dev/years/Buchkova)](https://badges.pufler.dev)
+
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100077433111172/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ines.buchkova/) 

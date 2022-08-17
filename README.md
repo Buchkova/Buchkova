@@ -8,7 +8,6 @@
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Buchkova/)
 ##
 
-
  - 👋 Hi, I’m Ines Buchkova
  - 👀 I’m interested in becoming a Full-Stack Developer
  - 🌱 I’m currently studying at SoftUni (C# Advance/OOP)
